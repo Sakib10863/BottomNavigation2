@@ -16,6 +16,8 @@ class ThirdFragment : Fragment() {
     ): View? {
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_third, container, false)
+
+        //git is Xoss
     }
 
 }
