@@ -33,6 +33,7 @@ class MainActivity : AppCompatActivity() {
         setupActionBarWithNavController(
                 navController, appBarConfiguration
         )
+        //hello
 
     }
 
